@@ -1,7 +1,9 @@
 {
     "bg": "https://miro.medium.com/max/3840/1*gSft-AG1JcY27f8SwXYvYQ.jpeg",
-    "title": "Alura Quiz XGH",
-    "description": "Teste os seus conhecimentos sobre XGH e vamos ver quantos códigos você vai deixar de quebrar",
+    "ogImage": "https://user-images.githubusercontent.com/6580989/105768437-272e7f80-5f3b-11eb-876e-a2fcbbe446c4.png",
+    "title": "Alura Quiz XGHP",
+    "description": "Teste os seus conhecimentos sobre XGHP e vamos ver quantos códigos você vai deixar de quebrar",
+    "url": "https://alura-xgh.hugocalheira.vercel.app",
     "questions": [
       {
         "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
